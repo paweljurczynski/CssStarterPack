@@ -1,0 +1,25 @@
+{
+  "name": "css_starter_pack",
+  "version": "1.0.0",
+  "description": "CSS Starter Pack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paweł Jurczyński",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "^1.7.7",
+    "browser-sync": "^2.11.2",
+    "css-mqpacker": "^4.0.1",
+    "csswring": "^4.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-postcss": "^6.1.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "node-sass": "^3.5.0-beta.1",
+    "postcss-font-magician": "^1.4.0",
+    "postcss-sprites": "^3.1.1"
+  }
+}
